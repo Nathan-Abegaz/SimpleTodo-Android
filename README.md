@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Had challenges creating the emulator due to memeory restrictions
+Had challenges creating the emulator due to memory restrictions
 
 ## License
 
